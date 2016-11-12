@@ -1,0 +1,6 @@
+{
+  "name": "Clinikick",
+  "tagline": "Clinical Trial Concept App",
+  "body": "### What was Clinikick?\r\nClinikick was a concept mobile app platform created by a team of students from UCLA and ArtCenter College of Design for BioEngr M233AB.\r\n\r\n### The Problem\r\nClinical trials are a fundamental step in the research process in medicine. The results of these trials can lead to the approval of new drugs and treatments for diseases, or their denial. Unfortunately, many of these trials are not able to find enough participants.\r\n\r\n### Our Solution\r\nClinikick is a system where users would download a mobile app and register their information, which would then connect to the main database of trials and then provide possible matches between trials and patients.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
